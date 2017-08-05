@@ -1,4 +1,5 @@
-## Welcome to GitHub Pages
+## About me
+An engineering student purcing btech in Applied electronics and instrumentation
 
 You can use the [editor on GitHub](https://github.com/sabeermuhammad/sabeermuhammad.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
