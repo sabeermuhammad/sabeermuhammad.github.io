@@ -1,38 +1,23 @@
 # About me
 An engineering student purcing btech in Applied electronics and instrumentatio.
 
-You can use the [editor on GitHub](https://github.com/sabeermuhammad/sabeermuhammad.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### FABLAB
+This is one of the best lab in our collage.It consist of mordern machines such as 3D printer,laser cutter and CNC machines.It provides oppurtunities to make anything.This lab helps any person's design to get out of paper.
 
-### markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+## ABOUT THE COURSE
+This course is that we are attending started on 03/08/2017.We are being mentored by Mr. JASEEL MOHAMMAD, he is one of the few graduate from fablab academy Trivandrum.
 
-# Muhammad sabeer.M
-## Header 2
-### Header 3
+### WEEK 1
+### DAY 1
+We were introduced to the github platform got to know how to create a github web page.We learned more about [FABLAB] and its emergance.The whole course was explained with specifing each day's work.Got to see 3D printer, CNC and laser printer in action.
+in progress....
 
-- Bulleted
-- List
+###DAY 2
+The whole group is split in to two groups such as team A and team B.All were asked to install software like EAGLE, CURA and CAD on to each laptops.We were also instructed about submitting an idea for the finel project. 
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sabeermuhammad/sabeermuhammad.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+###WEEK 2
+###DAY 2
